@@ -11,7 +11,7 @@ Installation
 
 ::
 
-    pip install csv__too__json
+    pip3 install csv-too-json==0.0.2
 
 
 Module can be imported to your source code::
