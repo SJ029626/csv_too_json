@@ -16,7 +16,7 @@ Installation
 
 Module can be imported to your source code::
 
-    import csv2json
+    import csv__too__json
 
     csv2json.change(
         csv_file_path: str,
